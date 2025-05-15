@@ -11,7 +11,7 @@ I'm Samuel Valle, a Mechatronics Engineering student currently in my 8th semeste
 - MATLAB (nivel básico)
 
 ## Intereses / Interests 🎯
-- Robótica 🤖
+- Robótica / Robotics 🤖
 - Linux (I use Arch, btw) 🐧
 - Desarrollo de IA local / Local AI development 🧠
 - Música EDM y Pop 🎶
@@ -20,4 +20,4 @@ I'm Samuel Valle, a Mechatronics Engineering student currently in my 8th semeste
 - Mejorar el script de **My_University_Project**: optimizar la interfaz de usuario (UI) y agregar nuevas funcionalidades.
 
 ## Contacto / Contact
-- [LinkedIn](https://www.linkedin.com/in/samuel-valle-hernandez-63747530b/)
+- [LinkedIn](www.linkedin.com/in/samuel-valle-hernandez-63747530b)
