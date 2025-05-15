@@ -20,4 +20,5 @@ I'm Samuel Valle, a Mechatronics Engineering student currently in my 8th semeste
 - Mejorar el script de **My_University_Project**: optimizar la interfaz de usuario (UI) y agregar nuevas funcionalidades.
 
 ## Contacto / Contact
-- [LinkedIn](www.linkedin.com/in/samuel-valle-hernandez-63747530b)
+- [LinkedIn](https://www.linkedin.com/in/samuel-valle-hernandez-63747530b)
+
